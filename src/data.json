@@ -1,0 +1,43 @@
+{
+    "name": "Daniel de Souza Neris",
+    "born_info": {
+        "city": "Barra Bonita - SP",
+        "year": 1999,
+        "month": 3,
+        "day": 2
+    },
+    "role": "Head of Technology",
+    "dev_since": 2018,
+    "team": [
+        {
+            "Name": "Victoria Regina Cassolo de Araujo",
+            "born_info": {
+                "city": "Jaú - SP",
+                "year": 1999,
+                "month": 5,
+                "day": 12
+            },
+            "dev_since": 2020
+        },
+        {
+            "Name": "Hilario Gomes Rosa Junior",
+            "born_info": {
+                "city": "Jau - SP",
+                "year": 2002,
+                "month": 3,
+                "day": 1
+            },
+            "dev_since": 2022
+        },
+        {
+            "Name": "Marcelo Sagayama",
+            "born_info": {
+                "city": "Santo André",
+                "year": 1982,
+                "month": 8,
+                "day": 17
+            },
+            "dev_since": 2002
+        }
+    ]
+}
