@@ -2,5 +2,11 @@
   "name": "challenge_01",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
