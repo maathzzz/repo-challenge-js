@@ -22,20 +22,6 @@ const user = require('./data.json')
      
 // --------------------------------------------------------------------------------------------
 
-
-// user.team.forEach( dev => {
-
-//     // console.log(dev.born_info.year)
-//     const devUser = [ dev.Name, dev.born_info.year ]
-//     const userDev = [ user.name, user.born_info.year]
-
-//     console.log(devUser)
-//     console.log(userDev)
-
-// })
-
-// -----------------------------------------------------------------------------------------------------------
-
 // let userAge = [];
 // let userName = [];
 // // idade
